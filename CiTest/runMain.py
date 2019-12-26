@@ -3,7 +3,7 @@
 # DateTime : 2018/4/9 18:08
 # SoftWare : PyCharm
 
-
+# -*- coding: UTF-8 -*- 
 import unittest,os,time
 from CiTest.common.MyHTMLTestReportCN import HTMLTestRunner
 from CiTest.common.EMail import  Email
